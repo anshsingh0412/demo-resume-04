@@ -18,7 +18,7 @@
     }
     @keyframes shine{ 0%{ transform:translateX(-200%) rotate(25deg);} 100%{ transform:translateX(200%) rotate(25deg);} }
   </style>
-</head>
+ 
 <body class="bg-zinc-50 text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100 font-[Inter]">
 
   <!-- Header -->
@@ -80,13 +80,13 @@
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M4 4h16v2H4zM4 11h16v2H4zM4 18h16v2H4z"/></svg>
               See Projects
             </a>
-            <a href="mailto:youremail@example.com" class="inline-flex items-center gap-2 px-5 py-3 rounded-2xl border border-zinc-300 dark:border-zinc-700">
+             
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M12 13L2 6.76V18a2 2 0 002 2h16a2 2 0 002-2V6.76L12 13z"/><path d="M22 6H2l10 7 10-7z"/></svg>
-              Email
+               
             </a>
-            <a href="./Ansh_Singh_Resume.pdf" download class="inline-flex items-center gap-2 px-5 py-3 rounded-2xl border border-zinc-300 dark:border-zinc-700">
+             
               <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 24 24" fill="currentColor"><path d="M5 20h14v-2H5v2zM11 4v8.59L8.71 10.3 7.29 11.7 12 16.41l4.71-4.71-1.42-1.41L13 12.59V4h-2z"/></svg>
-              Download CV
+              
             </a>
           </div>
           <div class="mt-6 flex items-center gap-4 text-sm text-zinc-500 dark:text-zinc-400">
