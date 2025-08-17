@@ -18,7 +18,6 @@
     }
     @keyframes shine{ 0%{ transform:translateX(-200%) rotate(25deg);} 100%{ transform:translateX(200%) rotate(25deg);} }
   </style>
-</head>
 <body class="bg-zinc-50 text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100 font-[Inter]">
 
   <!-- Header -->
