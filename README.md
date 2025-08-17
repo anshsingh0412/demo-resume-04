@@ -19,8 +19,7 @@
     @keyframes shine{ 0%{ transform:translateX(-200%) rotate(25deg);} 100%{ transform:translateX(200%) rotate(25deg);} }
   </style>
 <body class="bg-zinc-50 text-zinc-900 dark:bg-zinc-950 dark:text-zinc-100 font-[Inter]">
-
-  <!-- Header -->
+<!-- Header -->
   <header class="fixed top-0 left-0 right-0 z-50">
     <div class="max-w-6xl mx-auto px-4">
       <div class="mt-4 flex items-center justify-between rounded-2xl glass border border-zinc-200/60 dark:border-zinc-800/60 p-2 shadow-lg">
